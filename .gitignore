@@ -1,0 +1,20 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build output (if applicable)
+build/
+dist/
+
+# Ignore sensitive environment variables
+.env
+
+# Ignore database directory (if sensitive or large files)
+database/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Optionally, ignore lock files (if you don't want to commit them)
+# package-lock.json
+# yarn.lock
