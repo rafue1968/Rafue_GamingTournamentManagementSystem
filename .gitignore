@@ -1,5 +1,8 @@
 # Ignore node_modules
 node_modules/
+backend/node_modules/
+frontend/node_modules/
+
 
 # Ignore build output (if applicable)
 build/
@@ -16,5 +19,8 @@ database/
 Thumbs.db
 
 # Optionally, ignore lock files (if you don't want to commit them)
-# package-lock.json
-# yarn.lock
+package-lock.json
+yarn.lock
+
+.next/
+
