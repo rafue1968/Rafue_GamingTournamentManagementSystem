@@ -1,6 +1,6 @@
 import RegisterPage from "../ui/RegisterPage" //"app/ui/RegisterPage";
 
-export default function Page ({children}){
+export default function Page (){
     return (
         <div>
             <RegisterPage />
