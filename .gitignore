@@ -24,3 +24,12 @@ yarn.lock
 
 .next/
 
+firebase-service-account.json
+firebase-service-account.json
+
+node_modules
+.next
+.env
+.DS_Store
+
+
