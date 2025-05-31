@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { createUserWithEmailAndPassword } from "firebase/auth";
-import { auth, firestore } from "../../firebase/config" //"firebase/config";
+// import { auth, firestore } from "../../firebase/config" //"firebase/config";
 import { doc, setDoc } from "firebase/firestore";
 import { useRouter } from "next/navigation";
 
