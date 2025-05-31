@@ -1,4 +1,4 @@
-export default function Page({children}) {
+export default function Page() {
     return (
         <div className="container">
             <div className="card homepage" >            
